@@ -1,0 +1,14 @@
+    body {
+        width: 50%; background: #dabd4b;
+        margin: 20px auto;
+        padding: 25px;
+    }
+    section{
+        min-height: 400px;
+    }   
+    input submit{
+        border: 0;
+        color: #f5f1f1;
+        padding:10px 15px;
+        cursor: pointer;
+    }  
